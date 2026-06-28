@@ -1,0 +1,21 @@
+origen,destino,peso,fuente
+Buenos Aires,La Plata,60,Ruta0
+Buenos Aires,Rosario,300,Ruta0
+Buenos Aires,Mar del Plata,415,Ruta0
+Buenos Aires,Santa Fe,475,Ruta0
+La Plata,Mar del Plata,370,Ruta0
+Rosario,Santa Fe,170,Ruta0
+Rosario,Córdoba,400,Ruta0
+Santa Fe,Córdoba,340,Ruta0
+Córdoba,San Luis,420,Ruta0
+San Luis,Mendoza,260,Ruta0
+Mendoza,San Juan,170,Ruta0
+Córdoba,San Miguel de Tucumán,570,Ruta0
+San Miguel de Tucumán,Salta,310,Ruta0
+Santa Fe,Resistencia,500,Ruta0
+Resistencia,Salta,820,Ruta0
+Bahía Blanca,Buenos Aires,640,Ruta0
+Bahía Blanca,Neuquén,540,Ruta0
+Neuquén,Bariloche,430,Ruta0
+Mendoza,Neuquén,790,Ruta0
+San Luis,Bahía Blanca,640,Ruta0
