@@ -1,21 +1,22 @@
-origen,destino,peso,fuente
-Buenos Aires,La Plata,60,Ruta0
-Buenos Aires,Rosario,300,Ruta0
-Buenos Aires,Mar del Plata,415,Ruta0
-Buenos Aires,Santa Fe,475,Ruta0
-La Plata,Mar del Plata,370,Ruta0
-Rosario,Santa Fe,170,Ruta0
-Rosario,Córdoba,400,Ruta0
-Santa Fe,Córdoba,340,Ruta0
-Córdoba,San Luis,420,Ruta0
-San Luis,Mendoza,260,Ruta0
-Mendoza,San Juan,170,Ruta0
-Córdoba,San Miguel de Tucumán,570,Ruta0
-San Miguel de Tucumán,Salta,310,Ruta0
-Santa Fe,Resistencia,500,Ruta0
-Resistencia,Salta,820,Ruta0
-Bahía Blanca,Buenos Aires,640,Ruta0
-Bahía Blanca,Neuquén,540,Ruta0
-Neuquén,Bariloche,430,Ruta0
-Mendoza,Neuquén,790,Ruta0
-San Luis,Bahía Blanca,640,Ruta0
+origen,destino,peso,x_origen,y_origen,x_destino,y_destino,fuente
+Seattle,San Francisco,1300,95,90,95,360,Google Maps
+Seattle,Salt Lake City,1350,95,90,260,300,Google Maps
+Seattle,Minneapolis,2250,95,90,500,160,Google Maps
+San Francisco,Los Angeles,615,95,360,135,470,Google Maps
+Los Angeles,Las Vegas,435,135,470,230,420,Google Maps
+Los Angeles,Phoenix,595,135,470,300,500,Google Maps
+Las Vegas,Phoenix,480,230,420,300,500,Google Maps
+Las Vegas,Salt Lake City,675,230,420,260,300,Google Maps
+Salt Lake City,Denver,850,260,300,380,340,Google Maps
+Denver,Dallas,1260,380,340,510,500,Google Maps
+Denver,Chicago,1620,380,340,620,260,Google Maps
+Minneapolis,Chicago,660,500,160,620,260,Google Maps
+Dallas,Houston,385,510,500,530,580,Google Maps
+Houston,New Orleans,560,530,580,620,560,Google Maps
+New Orleans,Atlanta,755,620,560,690,480,Google Maps
+Dallas,Atlanta,1250,510,500,690,480,Google Maps
+Chicago,Atlanta,1150,620,260,690,480,Google Maps
+Chicago,Washington,1120,620,260,780,360,Google Maps
+Atlanta,Washington,1030,690,480,780,360,Google Maps
+Washington,New York,365,780,360,820,300,Google Maps
+Chicago,New York,1270,620,260,820,300,Google Maps
