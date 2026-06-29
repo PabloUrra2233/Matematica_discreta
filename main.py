@@ -1,4 +1,3 @@
-import csv
 import customtkinter as ctk
 from tkinter import Canvas, PhotoImage
 
