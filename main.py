@@ -77,11 +77,6 @@ def dibujar_grafo(camino=None):
 
         nombre = ciudad
 
-        if ciudad == "Buenos Aires":
-            nombre = "Bs. Aires"
-        elif ciudad == "San Miguel de Tucumán":
-            nombre = "Tucumán"
-
         canvas.create_text(
             x,
             y - 28,
