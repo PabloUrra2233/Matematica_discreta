@@ -1,22 +1,30 @@
 origen,destino,peso,x_origen,y_origen,x_destino,y_destino,fuente
-Seattle,San Francisco,1300,95,90,95,360,Google Maps
-Seattle,Salt Lake City,1350,95,90,260,300,Google Maps
-Seattle,Minneapolis,2250,95,90,500,160,Google Maps
-San Francisco,Los Angeles,615,95,360,135,470,Google Maps
-Los Angeles,Las Vegas,435,135,470,230,420,Google Maps
-Los Angeles,Phoenix,595,135,470,300,500,Google Maps
-Las Vegas,Phoenix,480,230,420,300,500,Google Maps
-Las Vegas,Salt Lake City,675,230,420,260,300,Google Maps
-Salt Lake City,Denver,850,260,300,380,340,Google Maps
-Denver,Dallas,1260,380,340,510,500,Google Maps
-Denver,Chicago,1620,380,340,620,260,Google Maps
-Minneapolis,Chicago,660,500,160,620,260,Google Maps
-Dallas,Houston,385,510,500,530,580,Google Maps
-Houston,New Orleans,560,530,580,620,560,Google Maps
-New Orleans,Atlanta,755,620,560,690,480,Google Maps
-Dallas,Atlanta,1250,510,500,690,480,Google Maps
-Chicago,Atlanta,1150,620,260,690,480,Google Maps
-Chicago,Washington,1120,620,260,780,360,Google Maps
-Atlanta,Washington,1030,690,480,780,360,Google Maps
-Washington,New York,365,780,360,820,300,Google Maps
-Chicago,New York,1270,620,260,820,300,Google Maps
+Seattle,San Francisco,1299,130,118,128,460,Google Maps. ruta en automóvil. consultado 29-06-2026
+Seattle,Salt Lake City,1352,130,118,370,356,Google Maps. ruta en automóvil. consultado 29-06-2026
+Seattle,Minneapolis,2665,130,118,798,209,Google Maps. ruta en automóvil. consultado 29-06-2026
+San Francisco,Los Angeles,613,128,460,224,589,Google Maps. ruta en automóvil. consultado 29-06-2026
+Los Angeles,Las Vegas,435,224,589,296,516,Google Maps. ruta en automóvil. consultado 29-06-2026
+Los Angeles,Phoenix,600,224,589,366,610,Google Maps. ruta en automóvil. consultado 29-06-2026
+Las Vegas,Phoenix,486,296,516,366,610,Google Maps. ruta en automóvil. consultado 29-06-2026
+Las Vegas,Salt Lake City,676,296,516,370,356,Google Maps. ruta en automóvil. consultado 29-06-2026
+Salt Lake City,Denver,838,370,356,529,392,Google Maps. ruta en automóvil. consultado 29-06-2026
+Denver,Dallas,1278,529,392,717,634,Google Maps. ruta en automóvil. consultado 29-06-2026
+Denver,Chicago,1616,529,392,928,317,Google Maps. ruta en automóvil. consultado 29-06-2026
+Minneapolis,Chicago,658,798,209,928,317,Google Maps. ruta en automóvil. consultado 29-06-2026
+Dallas,Houston,385,717,634,750,739,Google Maps. ruta en automóvil. consultado 29-06-2026
+Houston,New Orleans,558,750,739,872,732,Google Maps. ruta en automóvil. consultado 29-06-2026
+New Orleans,Atlanta,755,872,732,1002,600,Google Maps. ruta en automóvil. consultado 29-06-2026
+Dallas,Atlanta,1257,717,634,1002,600,Google Maps. ruta en automóvil. consultado 29-06-2026
+Chicago,Atlanta,1152,928,317,1002,600,Google Maps. ruta en automóvil. consultado 29-06-2026
+Chicago,Washington,1125,928,317,1171,421,Google Maps. ruta en automóvil. consultado 29-06-2026
+Atlanta,Washington,1025,1002,600,1171,421,Google Maps. ruta en automóvil. consultado 29-06-2026
+Washington,New York,369,1171,421,1241,358,Google Maps. ruta en automóvil. consultado 29-06-2026
+Chicago,New York,1281,928,317,1241,358,Google Maps. ruta en automóvil. consultado 29-06-2026
+Phoenix,Dallas,1712,366,610,717,634,Google Maps. ruta en automóvil. consultado 29-06-2026
+Phoenix,Houston,1889,366,610,750,739,Google Maps. ruta en automóvil. consultado 29-06-2026
+Phoenix,Denver,1390,366,610,529,392,Google Maps. ruta en automóvil. consultado 29-06-2026
+Phoenix,Salt Lake City,1061,366,610,370,356,Google Maps. ruta en automóvil. consultado 29-06-2026
+Phoenix,San Francisco,1210,366,610,128,460,Google Maps. ruta en automóvil. consultado 29-06-2026
+Denver,Minneapolis,1473,529,392,798,209,Google Maps. ruta en automóvil. consultado 29-06-2026
+Los Angeles,Seattle,1827,224,589,130,118,Google Maps. ruta en automóvil. consultado 29-06-2026
+Dallas,Chicago,1556,717,634,928,317,Google Maps. ruta en automóvil. consultado 29-06-2026
