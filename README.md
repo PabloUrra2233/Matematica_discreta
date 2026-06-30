@@ -26,7 +26,7 @@ El objetivo principal es calcular la **ruta de menor distancia** entre dos ciuda
 | Requerimiento | Cumplimiento en el proyecto |
 |---|---|
 | 15 ciudades no chilenas | Se utilizan 15 ciudades de Estados Unidos. |
-| Mínimo 20 conexiones reales | El archivo `datos.csv` contiene 29 conexiones entre ciudades. |
+| Mínimo 20 conexiones reales | El archivo `datos.csv` contiene 28 conexiones entre ciudades. |
 | Grafo conexo | Todas las ciudades están conectadas mediante al menos un camino. |
 | Pesos positivos | Todos los pesos corresponden a distancias positivas en kilómetros. |
 | Criterio único de ponderación | Todos los pesos representan distancia aproximada por carretera. |
