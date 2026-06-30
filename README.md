@@ -21,6 +21,27 @@ El objetivo principal es calcular la **ruta de menor distancia** entre dos ciuda
 
 ---
 
+## Cumplimiento de requerimientos
+
+| Requerimiento | Cumplimiento en el proyecto |
+|---|---|
+| 15 ciudades no chilenas | Se utilizan 15 ciudades de Estados Unidos. |
+| Mínimo 20 conexiones reales | El archivo `datos.csv` contiene 29 conexiones entre ciudades. |
+| Grafo conexo | Todas las ciudades están conectadas mediante al menos un camino. |
+| Pesos positivos | Todos los pesos corresponden a distancias positivas en kilómetros. |
+| Criterio único de ponderación | Todos los pesos representan distancia aproximada por carretera. |
+| Datos organizados | Las conexiones, pesos, coordenadas y fuentes están almacenadas en `datos.csv`. |
+| Interfaz gráfica | La aplicación permite interactuar mediante una ventana gráfica. |
+| Selección de origen y destino | El usuario puede elegir ambas ciudades mediante menús desplegables. |
+| Cálculo de ruta óptima | La ruta se calcula mediante el algoritmo de Dijkstra. |
+| Secuencia de ciudades | La aplicación muestra el recorrido obtenido como una secuencia ordenada. |
+| Costo total estimado | La aplicación muestra la distancia total acumulada en kilómetros. |
+| Visualización del grafo | Las ciudades se muestran como nodos y las conexiones como aristas. |
+| Ruta óptima distinguida | El camino calculado se resalta en rojo sobre el grafo. |
+| Repositorio ejecutable | El repositorio incluye código fuente, datos, imagen del mapa, dependencias e instrucciones de ejecución. |
+
+---
+
 ## Modelamiento del grafo
 
 El proyecto utiliza un grafo ponderado definido como:
@@ -212,6 +233,18 @@ python main.py
 
 ---
 
+## Pruebas sugeridas para la demostración
+
+Para verificar el funcionamiento de la aplicación se pueden realizar pruebas seleccionando distintas ciudades de origen y destino. En cada caso, la aplicación debe mostrar la ruta óptima, la distancia total y el recorrido resaltado en rojo sobre el grafo.
+
+Ejemplos recomendados para la demostración:
+
+- `Las Vegas` → `Atlanta`
+- `Seattle` → `New York`
+- `Houston` → `Washington`
+
+---
+
 ## Relación con Matemática Discreta
 
 Este proyecto aplica contenidos de grafos vistos en Matemática Discreta:
@@ -225,8 +258,8 @@ Este proyecto aplica contenidos de grafos vistos en Matemática Discreta:
 
 ---
 
-## Autor
+## Integrante
 
-**Pablo Urra**
+- Pablo Urra
 
 Proyecto final de Matemática Discreta.
